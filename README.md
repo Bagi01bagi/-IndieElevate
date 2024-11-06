@@ -54,3 +54,8 @@ plt.tight_layout()
 plt.savefig('age_solution_ratio_hist.png')
 plt.show()
 ![Image alt](https://github.com/Bagi01bagi/-IndieElevate/blob/main/GISTOGRAM_2.png)
+
+
+
+Комментарий:
+"Молодые соискатели (до 30 лет) чаще решают задачи, но с возрастом доля успешных решений снижается, особенно после 50 лет."
