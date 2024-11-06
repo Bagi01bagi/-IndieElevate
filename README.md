@@ -40,7 +40,7 @@ plt.savefig('age_solution_ratio.png')
 # Показать график
 plt.show()
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Bagi01bagi/-IndieElevate/blob/main/GISTOGRAM.png)
 
 plt.figure(figsize=(10, 6))
 sns.histplot(data=age_solution_ratio, x='Age', weights='Ответ на вопрос', kde=True, color='b')
