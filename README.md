@@ -53,4 +53,4 @@ plt.tight_layout()
 
 plt.savefig('age_solution_ratio_hist.png')
 plt.show()
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Bagi01bagi/-IndieElevate/blob/main/GISTOGRAM_2.png)
